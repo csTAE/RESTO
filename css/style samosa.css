@@ -1,0 +1,36 @@
+.mad{
+    text-align: center;
+    color: #f1501b;
+     font-size: 50px;
+     margin-bottom: 20px;
+ }
+ body{
+     background-color: rgb(245, 238, 238);
+ }
+ .img{
+     height: 400px;
+     width: 400px;
+     margin: auto;
+     display: block;
+     top: 50%;
+     left: 50%;
+ }
+ 
+ .text{
+     color: rgb(0, 0, 0);
+     font-size: 20px;
+ }
+ 
+ .btn.custom-btn {
+     padding: 12px 25px;
+     font-family: 'Nunito', sans-serif;
+     font-size: 16px;
+     font-weight: 600;
+     color: #ffffff;
+     background: #fbaf32;
+     border: 2px solid #fbaf32;
+     border-radius: 5px;
+     transition: .5s;
+     margin-left:20%;
+     margin-right:15%;
+ }
